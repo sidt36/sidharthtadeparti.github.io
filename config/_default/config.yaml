@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sidharth Tadeparti # Website name
-baseURL: 'https://sidharth-tadeparti.com/' # Website URL
+baseURL: 'sidharthtadeparti.github.io' # Website URL
 
 ############################
 ## LANGUAGE
